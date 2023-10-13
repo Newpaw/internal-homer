@@ -144,6 +144,12 @@ services:
         tag: "stat"
         url: "https://grafana.intranet.mluvii.com/"
         target: "_blank"
+      - name: "InfluxDB"
+        logo: "assets/png/influx.png"
+        subtitle: "Time series DB"
+        tag: "stat"
+        url: "https://https://influxdb.mluvii.com//"
+        target: "_blank"  
 
   - name: "Cloud"
     icon: "fa-solid fa-cloud"
