@@ -148,7 +148,7 @@ services:
         logo: "assets/png/influx.png"
         subtitle: "Time series DB"
         tag: "stat"
-        url: "https://https://influxdb.mluvii.com//"
+        url: "https://influxdb.mluvii.com/"
         target: "_blank"  
 
   - name: "Cloud"
