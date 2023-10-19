@@ -155,7 +155,13 @@ services:
         subtitle: "Time series DB"
         tag: "stat"
         url: "https://influxdb.mluvii.com/"
-        target: "_blank"  
+        target: "_blank"
+      - name: "Kuma"
+        logo: "assets/png/kuma.png"
+        subtitle: "UpTime monitoring
+        tag: "stat"
+        url: "https://kuma.mluvii.com/"
+        target: "_blank"          
 
   - name: "Cloud"
     icon: "fa-solid fa-cloud"
