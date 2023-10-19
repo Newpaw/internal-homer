@@ -118,6 +118,12 @@ services:
         tag: "doc"
         url: "https://app.mluvii.com/api"
         target: "_blank"
+      - name: "Instatus"
+        logo: "assets/png/mluvii.png"
+        subtitle: "Public status page."
+        tag: "doc"
+        url: "https://mluvii.instatus.com"
+        target: "_blank"
 
   - name: "Repository"
     icon: "fa-solid fa-box-archive"
