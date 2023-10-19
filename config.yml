@@ -158,7 +158,7 @@ services:
         target: "_blank"
       - name: "Kuma"
         logo: "assets/png/kuma.png"
-        subtitle: "UpTime monitoring
+        subtitle: "UpTime monitoring"
         tag: "stat"
         url: "https://kuma.mluvii.com/"
         target: "_blank"          
