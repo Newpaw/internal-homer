@@ -342,6 +342,12 @@ services:
         tag: "dev"
         url: "https://asteriskmluviitest.mluvii.com"
         target: "_blank"
+      - name: "Heimstaden test PBX"
+        logo: "assets/png/asterisk.png"
+        subtitle: "PBX test environment "
+        tag: "dev"
+        url: "https://asteriskmluviitest.mluvii.com"
+        target: "_blank"        
 
   - name: "Others"
     icon: "fa-solid fa-font-awesome"
