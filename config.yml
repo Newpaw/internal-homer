@@ -291,7 +291,7 @@ services:
         url: "https://virtualni-prodejna.o2.cz/"
         target: "_blank"
       - name: "Asterisk"
-        logo: "asterisk.png"
+        logo: "assets/png/asterisk.png"
         subtitle: "Production PBX"
         tag: "prod"
         url: "https://asterisk.mluvii.com/"
