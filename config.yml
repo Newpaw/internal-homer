@@ -398,7 +398,6 @@ services:
         tag: "sales"
         url: "https://mluvii.easyproject.cz/login"
         target: "_blank"
-    items:
       - name: "Convertkit"
         logo: "assets/png/convertkit.png"
         subtitle: "E-mailing for changelogs etc."
