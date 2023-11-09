@@ -382,6 +382,12 @@ services:
         tag: "others"
         url: "https://tools.siteground.com/dashboard?siteId=S2dyMllYZ01KUT09"
         target: "_blank"
+      - name: "SendGrid"
+        logo: "assets/png/sendgrid.png"
+        subtitle: "Transactional e-mails"
+        tag: "others"
+        url: "https://app.sendgrid.com/"
+        target: "_blank"
 
   - name: "Sales"
     icon: "fa-solid fa-search-dollar"
