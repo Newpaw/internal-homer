@@ -308,6 +308,13 @@ services:
         tag: "prod"
         url: "https://asterisk.mluvii.com/"
         target: "_blank"
+      - name: "1212 PBX"
+        logo: "assets/png/mpo.png"
+        subtitle: "Production PBX"
+        tag: "prod"
+        url: "https://pomocsip.mluvii.com/"
+        target: "_blank"
+
 
   - name: "Developers environment"
     icon: "fa-brands fa-dev"
