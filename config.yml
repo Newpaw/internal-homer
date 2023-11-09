@@ -392,7 +392,6 @@ services:
         tag: "sales"
         url: "https://app.pipedrive.com/auth/login"
         target: "_blank"
-    items:
       - name: "EasyProject"
         logo: "assets/png/easyproject.png"
         subtitle: "Project management system"
