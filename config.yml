@@ -438,7 +438,7 @@ services:
         tag: "dev"
         url: "https://asteriskmluviitest.mluvii.com"
         target: "_blank"       
-            - name: "Sdílená telefonie"
+      - name: "Sdílená telefonie"
         logo: "assets/png/mluvii.png"
         subtitle: "Production PBX"
         tag: "prod"
