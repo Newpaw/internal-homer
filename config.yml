@@ -148,7 +148,7 @@ services:
         target: "_blank"
       - name: "Lime Survey"
         logo: "assets/png/limesurvey.png"
-        subtitle: "Client Surveys."
+        subtitle: "Client satisfaction survey"
         tag: "sales"
         url: "https://dotaznik.mluvii.com/index.php/admin/index/"
         target: "_blank"
