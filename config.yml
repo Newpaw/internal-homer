@@ -324,12 +324,6 @@ services:
         tag: "prod"
         url: "https://virtualni-prodejna.o2.cz/"
         target: "_blank"
-      - name: "Sdílená telefonie"
-        logo: "assets/png/mluvii.png"
-        subtitle: "Production PBX"
-        tag: "prod"
-        url: "https://asterisk.mluvii.com/"
-        target: "_blank"
 
   - name: "Developers environment"
     icon: "fa-brands fa-dev"
