@@ -454,7 +454,7 @@ services:
         logo: "assets/png/heimstaden.png"
         subtitle: "Production PBX"
         tag: "prod"
-        url: "https://asterisk.mluvii.com/"
+        url: "asteriskheimstadencz.vcloud.mluvii.com"
         target: "_blank"
       - name: "1212 PBX"
         logo: "assets/png/mpo.png"
